@@ -1,4 +1,4 @@
-# cpp dataStructuren en algoritmen opdracht 1b
+# cpp dataStructuren en algoritmen opdracht 1b   10 april 2018
 
 Deze opdracht draait om de implementatie van het Abstracte Data Type Stack. De applicatie draait op een eigen implementatie 
 van een interface Stack die geimplementeerd wordt door de generieke klasse ArrayStack. De klasse postfixExpressieKlasse maakt door middel
